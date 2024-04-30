@@ -2,7 +2,7 @@
 - 👀 I’m interested in learning CS50.
 - 🌱 I’m currently learning how to navigate to Visual Studio.
 - 💞️ I’m looking to collaborate on how to build a platform to help others engage in introductory pre-algebra math problem solving. 
-- 📫 How to reach me wls2002@hotmail.com
+- 📫 How to reach me 168418373+Bluesapphire24@users.noreply.github.com
 - 😄 Pronouns: ...
 - ⚡ Fun fact: I live in Texas and currently teach middle school math.
 
